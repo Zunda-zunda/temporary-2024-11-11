@@ -6,3 +6,5 @@ $npm install [パッケージ名]
 $npm i [パッケージ名]
 $npm i
 ```
+
+# ESモジュール = ECMAモジュール
