@@ -5,3 +5,4 @@ import {
 
 console.log(sample());
 console.log(createUuid());
+console.log(new Date().toISOString());
